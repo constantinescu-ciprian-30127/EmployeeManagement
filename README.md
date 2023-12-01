@@ -1,0 +1,5 @@
+Aplicatia se imparte in doua: un site web, unde vor avea acces toti utilizatorii indiferent de roluri si o aplicatie Desktop, care va fi accesibila doar directorului. 
+Aplicatia web ofera posibilitatea utilizatorului sa se inregistreze, adaugand detalii despre urmatoarele date: nume, prenume, email si parola (care va fi criptata) cu care acesta se va loga la urmatoarele accesari ale site-ului. 
+La prima inregistrare, utilizatorul va primi implicit rolul de EMPLOYEE, care ulterior va putea fi modificat doar de catre director (avand rol de ADMIN). 
+	Dupa cum am amintit mai sus, aplicatia ofera acces diferit utilizatorilor in functie de rolul pe care acesta il are.
+	Aplicatia Desktop, destinata directorului, va permite vizualizarea tuturor angajatilor, assignarea rolurilor sau unassignarea acestora, vizualizarea departamentelor si implicit a angajatilor din acele departamente. Din aplicatia Desktop acesta nu va putea crea departamente sau adauga angajati acestora. Acest lucru va fi posibil prin aplicatia web care ii va permite acestuia accesul la functionalitatile amintite mai sus.
